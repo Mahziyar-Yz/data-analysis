@@ -1,2 +1,2 @@
 # data-analysis
-Data analysispractice and methods
+Data analysis practice and methods
